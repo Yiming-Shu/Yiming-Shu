@@ -6,14 +6,14 @@
 - 🔭 I’m currently working on **Condensed Matter Physics**
 
 
-- 🌱 I’m currently learning **Condensed Matter Physics**
-
-
 - 👯 I’m looking to collaborate on **superconductors or spintronics**
 
 
 - 📫 How to reach me **ys2362@cornell.edu**
 
+-  Tools in Physics **COMSOL MUMAX3 VESTA**
+
+-  Collaborated with **Cornell，PKU，UFL,HUST**
 
 <h3 align="left">Connect with me:</h3>
 
