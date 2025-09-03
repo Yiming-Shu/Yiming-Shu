@@ -11,9 +11,10 @@
 
 - 📫 How to reach me **ys2362@cornell.edu**
 
--  Tools in Physics **COMSOL MUMAX3 VESTA**
+- 👨‍💻 Tools in Physics **COMSOL MUMAX3 VESTA**
 
--  Collaborated with **Cornell，PKU，UFL,HUST**
+- 📄 Collaborated with **Cornell，PKU，UFL,HUST**
+  
 
 <h3 align="left">Connect with me:</h3>
 
